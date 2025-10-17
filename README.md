@@ -46,4 +46,4 @@ Trip duration histogram (minutes)  —  scaled to 50
 120.0 – 140.0 minutes    |   5 | *
 140.0 – 160.0 minutes    |   4 | *
 160.0 – 180.0 minutes    |   2 | 
-180.0 – 200.0 minutes    |   4 | *
+180.0 – 200.0 minutes    |   4 | ***
